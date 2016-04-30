@@ -1,6 +1,4 @@
-// Gen Tsujimoto
-// Project 1
-// 4/11/13
+
 
 #define DIR_SIZE 65551
 #define NUM_OF_BLOCKS 65536
