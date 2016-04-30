@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "task5.h"
+#include "fuse.h"
 #include "cfuhash.h"
 
 #define _FILE_OFFSET_BITS 64
