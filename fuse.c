@@ -148,7 +148,7 @@ static struct fuse_operations file_system = {
     .read     = file_read,
     .write    = file_write,
     .readdir  = file_readdir,
-};
+}
 
 int main(int argc, char **argv)
 {
