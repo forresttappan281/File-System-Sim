@@ -7,4 +7,4 @@ Integrate all my work on the file system with FUSE.
 Using source code by Don Ownes for hash functions. 
 http://viewsvn1.zanavi.cc/viewvc.cgi/zanavi_public1/navit/navit/maptool/cfuhash.c?view=co
 
-Not finish.
+Files taken down due to copywrite conserns.
