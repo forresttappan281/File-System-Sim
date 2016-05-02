@@ -1,6 +1,6 @@
 
 
-#include "task3.h"
+#include "system_func.h"
 #include "cfuhash.h"
 
 #include <stdio.h>
