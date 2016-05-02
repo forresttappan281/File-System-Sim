@@ -1,6 +1,4 @@
-// Gen Tsujimoto
-// Project 1 Task 3
-// 4/12/13
+
 
 #include "task3.h"
 #include "cfuhash.h"
